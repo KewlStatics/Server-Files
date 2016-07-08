@@ -1,5 +1,9 @@
 'use strict';
 
+// Token
+exports.serverid = 'noctility';
+exports.servertoken = 'zEmHQbOhrg7K';
+
 // The server port - the port to run Pokemon Showdown under
 exports.port = 8000;
 
