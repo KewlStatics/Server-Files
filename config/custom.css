@@ -4254,3 +4254,6 @@ padding:0px;}
 .button, .popupmenu button.button:hover {background:black;
   }
 }
+.chat.chatmessage-paul71 strong {
+color: orange !important;
+}
